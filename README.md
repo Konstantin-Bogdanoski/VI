@@ -1,2 +1,2 @@
 # VI
-Вештачка Интелигенција [Artificial Intelligence]
+Veshtachka Inteligencija [Вештачка Интелигенција]
